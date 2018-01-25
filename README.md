@@ -1,2 +1,2 @@
 # SFML-Snake
-Pieni Snake projekti käyttäen C++ ja SFML
+A small snake game project using SFML.
